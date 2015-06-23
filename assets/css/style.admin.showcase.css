@@ -1,0 +1,17 @@
+.sc_title_separator {
+	font-size: 14px;
+    margin: 0;
+    text-transform: uppercase;
+    font-family: Arial;
+    color: #f09800;
+}
+
+#sc_range_field{
+	float: left;
+	width: 94%;
+	cursor: pointer;
+}
+
+#sc_range_result{
+	float: left;
+}
